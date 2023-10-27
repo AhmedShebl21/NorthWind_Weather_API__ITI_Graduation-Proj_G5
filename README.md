@@ -1,2 +1,23 @@
-# NorthWind_Weather_API__ITI_Graduation-Proj_G5
+# NorthWind_Traders+Weather_API_Analytics__ITI_Graduation-Proj
 Full Project (DBMS-ETL-SQL Server -SSIS-SSRS-SSAS-Power BI-Tableau)- Graduation Project ITI Group 5
+![MergedImages](https://github.com/AhmedShebl21/NorthWind_Weather_API__ITI_Graduation-Proj_G5/assets/91529929/1154447a-d3a9-40f5-b920-18cc34a2c9bd)
+
+
+# **Project Summary:**
+Northwind Traders is  a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
+Because it is a global import and export company, it needs to transport large quantities of goods, deal with shipping companies, and manage and coordinate shipping orders to all parts of the world. Therefore, various weather fluctuations must also be taken into account because most of the transportation is based on ships and sea transportation of huge quantities.Therefore, we review for you the most important objectives of the project, which we seek to achieve by analyzing the available data. The objectives of the project are as follows:
+# **Project Goals :**
+Full Analytics Process has been implemented to reach the required answers and the proper insights for the next questions : 
+
+1-Are there any noticable sales trends over time?  
+2-Which are the best and worst selling products?  
+3-Can you identify any key customers?  
+4-Are shipping costs consistent across providers?  
+5-What are the based periods for each country based on the climate and weather forecasting ?  
+# Project Team :
+1- **Ahmed Shebl**   
+2- **Sara Mohamed**  
+3- **Mohamed Salah Eldin Mohamed**  
+4- **Mahmoud Salah Mahmoud**  
+5- **Hazem Amin**  
+6- **Adel Rabie Ibrahim**  
