@@ -29,12 +29,12 @@ Full Analytics Process has been implemented to reach the required answers and th
 3-ERD-Mapping  (OLTP-OLAP)  
 4-ETL (2 different Data Extraction cycles  _ SQL / API )   
 5-Warehousing  
-6-Generation Dashboards and Visualization  
+6-Generation Dashboards and Visualization   
 # **Tools Used:**  
-1-EXCEL  
-2-API  
-3-SSIS,SSRS,SSAS  
-4-Microsoft SQL Server 
-5-Power BI 
-6-TABLEAU   [Tableau-Climate_Dashboard](https://public.tableau.com/app/profile/ahmed.naser.morsy.shebl/viz/Weather_API_Final-Proj/FinalDashboard)
+1-EXCEL   
+2-API   
+3-SSIS,SSRS,SSAS   
+4-Microsoft SQL Server  
+5-Power BI (Direct Query / Data Gateway)  
+6-TABLEAU  (DATA Connector_API Extraction) [Tableau-Climate_Dashboard](https://public.tableau.com/app/profile/ahmed.naser.morsy.shebl/viz/Weather_API_Final-Proj/FinalDashboard)   
 
