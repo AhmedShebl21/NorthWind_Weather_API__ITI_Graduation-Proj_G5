@@ -1,5 +1,5 @@
 # NorthWind_Traders+Weather_API_ITI_Graduation-Proj  
-Business Intelligence Track ITI - Round R1 - Group 5  
+**Business Intelligence Track ITI - Round R1 - Group 5**   
 
 ![MergedImages](https://github.com/AhmedShebl21/NorthWind_Weather_API__ITI_Graduation-Proj_G5/assets/91529929/1154447a-d3a9-40f5-b920-18cc34a2c9bd)
 
@@ -25,6 +25,14 @@ Full Analytics Process has been implemented to reach the required answers and th
 
 # **Project Steps:**  
 1-Datasources   [NorthWind_Traders_Data](https://mavenanalytics.io/data-playground)__[Weather_API_Source](https://mavenanalytics.io/data-playground)   
-2-Data Exploration  
-3-ETL  
-4-Visualization 
+2-Data Exploration   
+3-ERD-Mapping  (OLTP-OLAP)  
+4-ETL (2 different Data Extraction cycles  _ SQL / API )   
+5-Warehousing
+6-Visualization  
+# **Tools Used:**  
+1-EXCEL  
+2-SSIS,SSRS,SSAS  
+3-Microsoft SQL Server  
+4-Power BI  
+5-TABLEAU  
