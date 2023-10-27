@@ -22,3 +22,9 @@ Full Analytics Process has been implemented to reach the required answers and th
 4- **Mahmoud Salah Mahmoud**  [Linkedin_Profile](https://www.linkedin.com/in/mahmoud-salah-2669bb250)  
 5- **Hazem Amin**  [Linkedin_Profile](https://www.linkedin.com/in/sarah-mohamed-872923102)  
 6- **Adel Rabie Ibrahim**  [Linkedin_Profile](https://www.linkedin.com/in/adel-rabie-1609791a9)  
+
+# **Project Steps:**  
+1-Datasources   [NorthWind_Traders_Data](https://mavenanalytics.io/data-playground)__[Weather_API_Source](https://mavenanalytics.io/data-playground)   
+2-Data Exploration  
+3-ETL  
+4-Visualization 
