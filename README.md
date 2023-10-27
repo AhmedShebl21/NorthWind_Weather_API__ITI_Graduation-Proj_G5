@@ -1,5 +1,6 @@
-# NorthWind_Traders+Weather_API_Analytics__ITI_Graduation-Proj
-Full Project (DBMS-ETL-SQL Server -SSIS-SSRS-SSAS-Power BI-Tableau)- Graduation Project ITI Group 5
+# NorthWind_Traders+Weather_API_ITI_Graduation-Proj  
+Business Intelligence Track ITI - Round R1 - Group 5  
+
 ![MergedImages](https://github.com/AhmedShebl21/NorthWind_Weather_API__ITI_Graduation-Proj_G5/assets/91529929/1154447a-d3a9-40f5-b920-18cc34a2c9bd)
 
 
@@ -15,9 +16,9 @@ Full Analytics Process has been implemented to reach the required answers and th
 4-Are shipping costs consistent across providers?  
 5-What are the based periods for each country based on the climate and weather forecasting ?  
 # Project Team :
-1- **Ahmed Shebl**   
-2- **Sara Mohamed**  
-3- **Mohamed Salah Eldin Mohamed**  
-4- **Mahmoud Salah Mahmoud**  
-5- **Hazem Amin**  
-6- **Adel Rabie Ibrahim**  
+1- **Ahmed Shebl**   [Linkedin_Profile](https://www.linkedin.com/in/ahmednasershebl/)  
+2- **Sara Mohamed**  [Linkedin_Profile](https://www.linkedin.com/in/sarah-mohamed-872923102)  
+3- **Mohamed Salah Eldin Mohamed**  [Linkedin_Profile](https://www.linkedin.com/in/mohamed-elkial-9b365118a)  
+4- **Mahmoud Salah Mahmoud**  [Linkedin_Profile](https://www.linkedin.com/in/mahmoud-salah-2669bb250)  
+5- **Hazem Amin**  [Linkedin_Profile](https://www.linkedin.com/in/sarah-mohamed-872923102)  
+6- **Adel Rabie Ibrahim**  [Linkedin_Profile](https://www.linkedin.com/in/adel-rabie-1609791a9)  
