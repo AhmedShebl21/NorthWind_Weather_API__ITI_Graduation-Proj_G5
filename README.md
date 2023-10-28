@@ -32,7 +32,7 @@ Full Analytics Process has been implemented to reach the required answers and th
 6-Generation Dashboards and Visualization   
 # **Tools Used:**  
 1-EXCEL   
-2-API   
+2-API,Tableau Data Connector,on-premsies Data Gateway  
 3-SSIS,SSRS,SSAS   
 4-Microsoft SQL Server  
 5-Power BI (Direct Query / Data Gateway)  
