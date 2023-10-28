@@ -30,11 +30,22 @@ Full Analytics Process has been implemented to reach the required answers and th
 4-ETL (2 different Data Extraction cycles  _ SQL / API )   
 5-Warehousing  
 6-Generation Dashboards and Visualization   
+
+![ERD Mapping](https://github.com/AhmedShebl21/NorthWind_Weather_API__ITI_Graduation-Proj_G5/assets/91529929/6ef994bc-d79a-4d9e-82ad-dcd5c058dd0a)
+
+![ssis sql schema](https://github.com/AhmedShebl21/NorthWind_Weather_API__ITI_Graduation-Proj_G5/assets/91529929/f710f0ab-bf86-4bbc-b972-985191ac478f)    
+
+![Merged_document (1)](https://github.com/AhmedShebl21/NorthWind_Weather_API__ITI_Graduation-Proj_G5/assets/91529929/7463feee-f7b1-41ff-8345-843af524b003)
+
+
 # **Tools Used:**  
 1-EXCEL   
-2-API,Tableau Data Connector,on-premsies Data Gateway  
+2-Weather API   
 3-SSIS,SSRS,SSAS   
 4-Microsoft SQL Server  
-5-Power BI (Direct Query / Data Gateway)  
+5-Power BI (Direct Query /on-premsies Data Gateway )  
 6-TABLEAU  (DATA Connector_API Extraction) [Tableau-Climate_Dashboard](https://public.tableau.com/app/profile/ahmed.naser.morsy.shebl/viz/Weather_API_Final-Proj/FinalDashboard)   
+
+
+
 
