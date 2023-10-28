@@ -25,8 +25,8 @@ Full Analytics Process has been implemented to reach the required answers and th
 
 # **Project Steps:**  
 1-Datasources   [NorthWind_Traders_Data](https://mavenanalytics.io/data-playground)__[Weather_API_Source](https://mavenanalytics.io/data-playground)   
-2-Data Exploration   
-3-ERD-Mapping  (OLTP-OLAP)  
+2-Data Exploration & Cleansing  
+3-ERD-Mapping  (OLTP-OLAP)    
 4-ETL (2 different Data Extraction cycles  _ SQL / API )   
 5-Warehousing  
 6-Generation Dashboards and Visualization   
