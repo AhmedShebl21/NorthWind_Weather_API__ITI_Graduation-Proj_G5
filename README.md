@@ -6,7 +6,7 @@
 
 # **Project Summary:**
 Northwind Traders is  a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
-Because it is a global import and export company, it needs to transport large quantities of goods, deal with shipping companies, and manage and coordinate shipping orders to all parts of the world. Therefore, various weather fluctuations must also be taken into account because most of the transportation is based on ships and sea transportation of huge quantities.Therefore, we review for you the most important objectives of the project, which we seek to achieve by analyzing the available data. The objectives of the project are as follows:
+Because it is a global import and export company, it needs to transport large quantities of goods, deal with shipping companies, and manage and coordinate shipping orders to all parts of the world. Therefore, various weather fluctuations must also be taken into account because most of the transportation is based on ships and sea transportation of huge quantities.Therefore, we review for you the most important objectives of the project, which we seek to achieve by analyzing the available data.  
 # **Project Goals :**
 Full Analytics Process has been implemented to reach the required answers and the proper insights for the next questions : 
 
