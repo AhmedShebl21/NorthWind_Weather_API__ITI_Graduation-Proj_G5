@@ -43,7 +43,7 @@ Full Analytics Process has been implemented to reach the required answers and th
 2-Weather API   
 3-SSIS,SSRS,SSAS   
 4-Microsoft SQL Server  
-5-Power BI (Direct Query /on-premsies Data Gateway )  
+5-Power BI (Direct Query /on-premsies Data Gateway )   [Northwind Dashboard](https://www.novypro.com/project/northwind-traders-dashboard-power-bi-3)     
 6-TABLEAU  (DATA Connector_API Extraction) [Tableau-Climate_Dashboard](https://public.tableau.com/app/profile/ahmed.naser.morsy.shebl/viz/Weather_API_Final-Proj/FinalDashboard)   
 
 
